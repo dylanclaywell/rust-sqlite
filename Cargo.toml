@@ -1,0 +1,8 @@
+[package]
+name = "rust_hello_world" # the name of the package
+version = "0.1.0"    # the current version, obeying semver
+authors = ["Dylan <djclaywell@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+sqlite = "0.26.0"
